@@ -98,7 +98,7 @@ psycopg2-binary==2.8.5
 # pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
 Pygments==2.6.1
 pyjsparser==2.7.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.5.3
 # pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
 pyparsing==2.4.7
