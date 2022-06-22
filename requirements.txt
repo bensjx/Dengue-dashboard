@@ -78,7 +78,7 @@ mysql-connector-python==8.0.21
 mysqlclient==2.0.1
 newsapi-python==0.2.6
 nltk==3.5
-numpy==1.18.5
+numpy==1.22.0
 oauthlib==3.1.0
 ortools==7.7.7810
 packaging==20.4
